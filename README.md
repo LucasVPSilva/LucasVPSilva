@@ -5,8 +5,6 @@
 - CSS
 - REACT
 - JAVASCRIPT
-- TYPESCRIPT
-- PYTHON
 - GIT
 
 <hr>
