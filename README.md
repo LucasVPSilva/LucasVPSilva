@@ -1,5 +1,10 @@
 ## 👋 Olá, sou o Lucas Pires
 
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+<hr>
+
 ### 📚 Estudando Full Stack 
 - HTML5
 - CSS
@@ -7,8 +12,19 @@
 - JAVASCRIPT
 - GIT
 
+
 <hr>
 
+
+
+### Quem sou eu?
+
+Tenho 34 anos e moro na capital do Pequi (Goiânia / GO). Sou apaixonado por programação, automobilismo e felinos!
+Atualmente, iniciante em programação e youtuber (canal PointF1)
+
+
+
+<hr>
 <br>
 
 <div align="center">
@@ -32,6 +48,9 @@
 <a href="https://www.instagram.com/lucasvspires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucasvps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-vinicius-pires-50988778/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://youtube.com/pointf1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+
+
 </div>
     
 
